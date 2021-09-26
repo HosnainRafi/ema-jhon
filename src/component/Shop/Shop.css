@@ -1,0 +1,15 @@
+.shop-container{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.product-container{
+    border-right: 1px solid gray;
+    margin-right: 5px;
+    margin-left: 15%;
+}
+.search-area{
+    margin-bottom: 50px;
+    background-color: lightgray;
+    padding: 20px;
+    margin-top: -50px;
+}

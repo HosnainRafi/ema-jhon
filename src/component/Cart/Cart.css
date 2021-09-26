@@ -1,0 +1,14 @@
+.cart{
+    position: sticky;
+    position: -webkit-sticky;
+    top: 3rem;
+}
+.center-align{
+    text-align: center;
+}
+.total{
+    color: red;
+}
+.align-btn{
+    text-align: center !important;
+}
